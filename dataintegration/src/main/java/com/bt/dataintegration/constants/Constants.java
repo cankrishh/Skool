@@ -1,7 +1,7 @@
 package com.bt.dataintegration.constants;
 
 public interface Constants {
-
+ 
                 public static final String ORACLE_DRIVER_NAME = "oracle.jdbc.driver.OracleDriver";
                 public static final String ORACLE_DRIVER_TYPE = "jdbc:oracle:thin";
                 public static final String HIVE_JDBC_DRIVER_NAME = "org.apache.hive.jdbc.HiveDriver";
