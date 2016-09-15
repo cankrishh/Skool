@@ -21,7 +21,7 @@ import org.apache.hadoop.io.compress.CompressionCodecFactory;
 import org.apache.log4j.Logger;
 
 public class ValidateFileSystem {
-    static final Logger logger=Logger.getLogger(ValidateFile.class);
+    static final Logger logger=Logger.getLogger(ValidateFileSystem.class);
 	
 	/*public static LinkedList<String> readMaping(String mapingcols){
 		LinkedList<String>mappingcolumn=new LinkedList<String>();
