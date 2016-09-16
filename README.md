@@ -68,7 +68,7 @@ A UI based open source tool which will ingest data automatically from following 
  cd skool_tool
  mkdir libs
  mkdir configuration
- git clone [git-repo-url]
+ git clone https://github.com/BT-Plc/Skool.git
  cd Skool/dataintegration/configuration
 
 **edit the configuration.properties.template, password.properties.template and log4j.properties.template and rename it to configuration.properties, password.properties and log4j.properties. For editing configuration.properties file as per your cluster specifications follow the comments in the template file (configuration.properties.template)**
