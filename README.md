@@ -79,7 +79,7 @@ cd ..
 mvn install -Dmaven.test.skip=true or mvn install 
 cp target/libs/* ../../libs
 cp target/dataintegration-0.0.1-SNAPSHOT.jar ../../
-cp configuration/configuration.properties ../../configuration/
+cp configuration/configuration.* ../../configuration/
 cd ../..
 cp Skool/di_tool_runnable/* configuration/
 mv configuration/run.sh .
